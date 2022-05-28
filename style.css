@@ -13,7 +13,7 @@ body{
     z-index: 1;
 }
 .intro{
-    max-height: 100vh;
+    max-height: auto;
     overflow: hidden;
 }
 .intro:after{
