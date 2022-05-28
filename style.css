@@ -8,9 +8,11 @@ body{
     display: block;
 }
 .video{
-    position: relative;
+    
     padding-bottom: 56.25%;
     z-index: 1;
+    position: fixed;
+    width: 100%;
 }
 .intro{
     max-height: auto;
